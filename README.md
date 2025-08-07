@@ -11,7 +11,7 @@ The goal of restaurant365R is to ...
 You can install the development version of restaurant365R like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+remotes::install_github("LHRC/restaurant365R")
 ```
 
 ## Example
